@@ -53,7 +53,7 @@ Claude Sonnet 4 is exceptionally reliable at following structured output instruc
 
 ## Why the `insight` Field
 
-The spec asked for 3 interview questions. I added an `insight` per question — a short explanation of what the question is designed to reveal. This makes the tool useful for a non-technical founder who wants to understand the reasoning behind each question, not just read a list.
+The spec asked for 3 interview questions. I added an `insight` per question - a short explanation of what the question is designed to reveal. This makes the tool useful for a non-technical founder who wants to understand the reasoning behind each question, not just read a list.
 
 ---
 
