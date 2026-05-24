@@ -68,7 +68,7 @@ SDD reduces ambiguity early, keeps AI-assisted code generation focused, and prod
 ## Running Locally
 
 ```bash
-git clone https://github.com/your-username/interview-question-generator
+git clone https://github.com/linfordlee14/interview-question-generator
 cd interview-question-generator
 npm install
 ```
