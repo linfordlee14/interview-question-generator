@@ -4,7 +4,7 @@ A focused web app that accepts a job title and returns 3 thoughtful, role-specif
 
 Built as a technical screen for a Technical Co-Founder / Founding Engineer role at an HRTech startup.
 
-**Live URL:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live URL:** [your-vercel-url.vercel.app](https://interview-gen-six.vercel.app/)
 
 ---
 
