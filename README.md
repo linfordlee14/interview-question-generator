@@ -100,7 +100,7 @@ The app is deployed on Vercel. To deploy your own instance:
 
 ## AI Usage
 
-AI was used throughout this build — for code generation, prompt refinement, and debugging. I used Claude as my development partner via Windsurf and the Anthropic API directly. Transparency about AI tool usage is part of how I work.
+AI was used throughout this build - for code generation, prompt refinement, and debugging. I used Claude Code as my development partner via Windsurf and the Anthropic API directly. Transparency about AI tool usage is part of how I work.
 
 ---
 
